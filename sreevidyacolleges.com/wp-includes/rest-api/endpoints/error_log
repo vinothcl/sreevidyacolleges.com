@@ -1,0 +1,8 @@
+[29-Nov-2022 03:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home4/vivaabku/sreevidyacolleges.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[29-Nov-2022 04:03:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home4/vivaabku/sreevidyacolleges.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17

@@ -1,0 +1,15 @@
+[14-Apr-2022 12:44:11 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home4/vivaabku/sreevidyacolleges.com/wp-includes/wp-db.php on line 2162
+[14-Apr-2022 12:44:11 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home4/vivaabku/sreevidyacolleges.com/wp-includes/wp-db.php on line 2162
+[23-Sep-2022 15:37:41 UTC] WordPress database error Duplicate entry '235-232' for key 'PRIMARY' for query INSERT INTO `wp_yoast_indexable_hierarchy` (`indexable_id`, `ancestor_id`, `depth`, `blog_id`) VALUES ('235', '232', '1', '1') made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, WP_REST_Posts_Controller->get_item, WP_REST_Attachments_Controller->prepare_item_for_response, WP_REST_Posts_Controller->prepare_item_for_response, WP_REST_Controller->add_additional_fields_to_object, Yoast\WP\SEO\Routes\Yoast_Head_REST_Field->for_post, Yoast\WP\SEO\Actions\Indexables\Indexable_Head_Action->for_post, Yoast\WP\SEO\Actions\Indexables\Indexable_Head_Action->with_404_fallback, Yoast\WP\SEO\Surfaces\Values\Meta->get_head, Yoast\WP\SEO\Surfaces\Values\Meta->create_html_presentation, Yoast\WP\SEO\Presenters\Schema_Presenter->present, Yoast\WP\SEO\Presenters\Schema_Presenter->get, Yoast\WP\SEO\Presentations\Abstract_Presentation->__get, Yoast\WP\SEO\Presentations\Indexable_Presentation->generate_schema, Yoast\WP\SEO\Generators\Schema_Generator->generate, Yoast\WP\SEO\Generators\Schema_Generator->generate_graph, Yoast\WP\SEO\Generators\Schema\Breadcrumb->generate, Yoast\WP\SEO\Presentations\Abstract_Presentation->__get, Yoast\WP\SEO\Presentations\Indexable_Presentation->generate_breadcrumbs, Yoast\WP\SEO\Generators\Breadcrumbs_Generator->generate, Yoast\WP\SEO\Repositories\Indexable_Repository->get_ancestors, Yoast\WP\SEO\Repositories\Indexable_Hierarchy_Repository->find_ancestors, Yoast\WP\SEO\Builders\Indexable_Hierarchy_Builder->build, Yoast\WP\SEO\Builders\Indexable_Hierarchy_Builder->save_ancestors, Yoast\WP\SEO\Repositories\Indexable_Hierarchy_Repository->add_ancestor, Yoast\WP\Lib\Model->save, Yoast\WP\Lib\ORM->save, Yoast\WP\Lib\ORM::execute
+[30-Sep-2022 12:00:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/vivaabku/sreevidyacolleges.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-settings.php on line 33
+[30-Sep-2022 12:00:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/vivaabku/sreevidyacolleges.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-settings.php on line 33
+[29-Nov-2022 03:57:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/vivaabku/sreevidyacolleges.com/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-settings.php on line 33

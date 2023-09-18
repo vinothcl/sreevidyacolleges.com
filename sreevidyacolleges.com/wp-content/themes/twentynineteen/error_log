@@ -1,0 +1,12 @@
+[21-Aug-2022 22:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentynineteen/index.php on line 17
+[03-Sep-2022 17:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentynineteen/404.php on line 12
+[03-Sep-2022 17:14:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentynineteen/404.php on line 12

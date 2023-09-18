@@ -1,0 +1,12 @@
+[26-Aug-2022 04:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[26-Aug-2022 07:15:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
+[06-May-2023 08:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15

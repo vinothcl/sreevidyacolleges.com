@@ -1,0 +1,16 @@
+[13-Jun-2023 10:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home4/vivaabku/sreevidyacolleges.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-admin/includes/admin.php on line 16
+[17-Jun-2023 11:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home4/vivaabku/sreevidyacolleges.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 01:27:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home4/vivaabku/sreevidyacolleges.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 01:27:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home4/vivaabku/sreevidyacolleges.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-admin/includes/admin.php on line 16

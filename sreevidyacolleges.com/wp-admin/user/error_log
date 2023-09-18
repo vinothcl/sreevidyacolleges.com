@@ -1,0 +1,4 @@
+[29-Nov-2022 03:55:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/vivaabku/sreevidyacolleges.com/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-admin/user/menu.php on line 10

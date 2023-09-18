@@ -1,0 +1,16 @@
+[06-Nov-2022 23:05:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/vivaabku/sreevidyacolleges.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-includes/functions.php on line 8
+[12-Nov-2022 14:12:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/vivaabku/sreevidyacolleges.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-includes/functions.php on line 8
+[13-Feb-2023 21:08:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/vivaabku/sreevidyacolleges.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-includes/functions.php on line 8
+[20-May-2023 05:44:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/vivaabku/sreevidyacolleges.com/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-includes/functions.php on line 8

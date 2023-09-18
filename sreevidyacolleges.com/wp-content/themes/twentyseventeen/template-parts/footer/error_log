@@ -1,0 +1,8 @@
+[26-Aug-2022 06:56:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[26-Aug-2022 21:33:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18

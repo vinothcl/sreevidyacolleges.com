@@ -1,0 +1,4 @@
+[29-Nov-2022 04:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home4/vivaabku/sreevidyacolleges.com/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17

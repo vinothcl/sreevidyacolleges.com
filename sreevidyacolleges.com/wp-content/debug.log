@@ -1,0 +1,80 @@
+[12-Jul-2022 09:53:18 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/featureservice.php:180
+Stack trace:
+#0 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/inc/admin.php(537): Education_web_featureservices->form(Array)
+#1 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(307): SiteOrigin_Panels_Admin->enqueue_admin_scripts('')
+#2 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home4/vivaabku/sreevidyacolleges.com/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /home4/vivaabku/sreevidyacolleges.com/wp-admin/admin-header.php(139): do_action('admin_print_scr...')
+#5 /home4/vivaabku/sreevidyacolleges.com/wp-admin/edit-form-advanced.php(425): require_once('/home4/vivaabku...')
+#6 /home4/vivaabku/sreevidyacolleges.com/wp-admin/post-new.php(75): require('/home4/vivaabku...')
+#7 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/featureservice.php on line 180
+[12-Jul-2022 09:56:30 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/academics.php:194
+Stack trace:
+#0 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/inc/admin.php(537): Education_web_academics->form(Array)
+#1 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(307): SiteOrigin_Panels_Admin->enqueue_admin_scripts('')
+#2 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home4/vivaabku/sreevidyacolleges.com/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /home4/vivaabku/sreevidyacolleges.com/wp-admin/admin-header.php(139): do_action('admin_print_scr...')
+#5 /home4/vivaabku/sreevidyacolleges.com/wp-admin/edit-form-advanced.php(425): require_once('/home4/vivaabku...')
+#6 /home4/vivaabku/sreevidyacolleges.com/wp-admin/post-new.php(75): require('/home4/vivaabku...')
+#7 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/academics.php on line 194
+[12-Jul-2022 09:59:22 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/academics.php:194
+Stack trace:
+#0 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/inc/admin.php(537): Education_web_academics->form(Array)
+#1 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/compat/layout-block.php(37): SiteOrigin_Panels_Admin->enqueue_admin_scripts()
+#2 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(307): SiteOrigin_Panels_Compat_Layout_Block->enqueue_layout_block_editor_assets('post.php')
+#3 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 /home4/vivaabku/sreevidyacolleges.com/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#5 /home4/vivaabku/sreevidyacolleges.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'post.php')
+#6 /home4/vivaabku/sreevidyacolleges.com/wp-admin/edit-form-blocks.php(302): require_once('/home4/vivaabku...')
+#7 /home4/vivaabku/sreevidyacolleges.com/wp-admin/post.php(187): require('/home4/vivaabku...')
+#8 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/academics.php on line 194
+[12-Jul-2022 09:59:31 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/academics.php:194
+Stack trace:
+#0 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/inc/admin.php(537): Education_web_academics->form(Array)
+#1 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/compat/layout-block.php(37): SiteOrigin_Panels_Admin->enqueue_admin_scripts()
+#2 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(307): SiteOrigin_Panels_Compat_Layout_Block->enqueue_layout_block_editor_assets('post.php')
+#3 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 /home4/vivaabku/sreevidyacolleges.com/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#5 /home4/vivaabku/sreevidyacolleges.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'post.php')
+#6 /home4/vivaabku/sreevidyacolleges.com/wp-admin/edit-form-blocks.php(302): require_once('/home4/vivaabku...')
+#7 /home4/vivaabku/sreevidyacolleges.com/wp-admin/post.php(187): require('/home4/vivaabku...')
+#8 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/academics.php on line 194
+[12-Jul-2022 09:59:46 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/academics.php:194
+Stack trace:
+#0 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/inc/admin.php(537): Education_web_academics->form(Array)
+#1 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/compat/layout-block.php(37): SiteOrigin_Panels_Admin->enqueue_admin_scripts()
+#2 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(307): SiteOrigin_Panels_Compat_Layout_Block->enqueue_layout_block_editor_assets('post.php')
+#3 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 /home4/vivaabku/sreevidyacolleges.com/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#5 /home4/vivaabku/sreevidyacolleges.com/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'post.php')
+#6 /home4/vivaabku/sreevidyacolleges.com/wp-admin/edit-form-blocks.php(302): require_once('/home4/vivaabku...')
+#7 /home4/vivaabku/sreevidyacolleges.com/wp-admin/post.php(187): require('/home4/vivaabku...')
+#8 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/academics.php on line 194
+[12-Jul-2022 10:02:46 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/blogs.php:114
+Stack trace:
+#0 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/inc/admin.php(537): Education_web_blogs->form(Array)
+#1 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(307): SiteOrigin_Panels_Admin->enqueue_admin_scripts('')
+#2 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home4/vivaabku/sreevidyacolleges.com/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /home4/vivaabku/sreevidyacolleges.com/wp-admin/admin-header.php(139): do_action('admin_print_scr...')
+#5 /home4/vivaabku/sreevidyacolleges.com/wp-admin/edit-form-advanced.php(425): require_once('/home4/vivaabku...')
+#6 /home4/vivaabku/sreevidyacolleges.com/wp-admin/post-new.php(75): require('/home4/vivaabku...')
+#7 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/blogs.php on line 114
+[12-Jul-2022 10:02:52 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/blogs.php:114
+Stack trace:
+#0 /home4/vivaabku/sreevidyacolleges.com/wp-content/plugins/siteorigin-panels/inc/admin.php(537): Education_web_blogs->form(Array)
+#1 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(307): SiteOrigin_Panels_Admin->enqueue_admin_scripts('')
+#2 /home4/vivaabku/sreevidyacolleges.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home4/vivaabku/sreevidyacolleges.com/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#4 /home4/vivaabku/sreevidyacolleges.com/wp-admin/admin-header.php(139): do_action('admin_print_scr...')
+#5 /home4/vivaabku/sreevidyacolleges.com/wp-admin/edit-form-advanced.php(425): require_once('/home4/vivaabku...')
+#6 /home4/vivaabku/sreevidyacolleges.com/wp-admin/post-new.php(75): require('/home4/vivaabku...')
+#7 {main}
+  thrown in /home4/vivaabku/sreevidyacolleges.com/wp-content/themes/education-web/offshorethemes/widgets/blogs.php on line 114

@@ -1,0 +1,1742 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-20 14:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:58
+msgid "Primary"
+msgstr ""
+
+#: functions.php:59
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:118
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:120 functions.php:131 functions.php:141 functions.php:151
+#: functions.php:161 functions.php:171
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:129
+msgid "HomePage Widget Area"
+msgstr ""
+
+#: functions.php:139
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:149
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: functions.php:159
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: functions.php:169
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: 404.php:30
+msgid "404"
+msgstr ""
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:32
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:33
+msgid "Go to home"
+msgstr ""
+
+#: index.php:57 archive.php:52 search.php:46
+msgid "Prev"
+msgstr ""
+
+#: index.php:58 archive.php:53 search.php:47
+msgid "Next"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73
+msgid "Full Name *"
+msgstr ""
+
+#: comments.php:80
+msgid "Email Address *"
+msgstr ""
+
+#: comments.php:90
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:97
+msgid "ADD COMMENT"
+msgstr ""
+
+#. Name of the template
+msgid "Educationweb - Builder Page"
+msgstr ""
+
+#: section/sectionarea.php:245 offshorethemes/widgets/academics.php:446
+msgid "Explore"
+msgstr ""
+
+#: section/sectionarea.php:324 offshorethemes/widgets/courses.php:224
+msgid "View More"
+msgstr ""
+
+#: section/sectionarea.php:397 section/sectionarea.php:487
+#: section/sectionarea.php:935 offshorethemes/widgets/whychoose.php:432
+#: offshorethemes/widgets/mainservices.php:453
+#: offshorethemes/widgets/blogs.php:250
+msgid "Read More"
+msgstr ""
+
+#: section/sectionarea.php:573 section/sectionarea.php:634
+#: offshorethemes/widgets/whychoose.php:274 offshorethemes/widgets/faq.php:275
+msgid "Image preview"
+msgstr ""
+
+#: section/sectionarea.php:997
+msgid "Brand Logo Image"
+msgstr ""
+
+#: offshorethemes/functions.php:31
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. %s: search query.
+#: offshorethemes/functions.php:129
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: offshorethemes/functions.php:133
+msgid "Error Page"
+msgstr ""
+
+#: offshorethemes/functions.php:178
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: offshorethemes/functions.php:181
+msgid "Offshore Themes"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: offshorethemes/functions.php:229
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: offshorethemes/functions.php:233
+msgctxt "Lobster font: on or off"
+msgid "on"
+msgstr ""
+
+#: offshorethemes/functions.php:237
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr ""
+
+#: offshorethemes/functions.php:379
+msgid "Enable"
+msgstr ""
+
+#: offshorethemes/functions.php:380
+msgid "Disable"
+msgstr ""
+
+#: offshorethemes/functions.php:497
+msgid "No image selected"
+msgstr ""
+
+#: offshorethemes/functions.php:503 offshorethemes/widgets/whychoose.php:204
+#: offshorethemes/widgets/whychoose.php:246
+#: offshorethemes/widgets/mainservices.php:230
+#: offshorethemes/widgets/mainservices.php:272
+#: offshorethemes/widgets/academics.php:229
+#: offshorethemes/widgets/academics.php:271
+#: offshorethemes/widgets/featureservice.php:215
+#: offshorethemes/widgets/featureservice.php:257
+#: offshorethemes/widgets/faq.php:205 offshorethemes/widgets/faq.php:247
+msgid "Remove"
+msgstr ""
+
+#: offshorethemes/functions.php:504
+msgid "Select Image"
+msgstr ""
+
+#: offshorethemes/functions.php:534
+msgid "Delete"
+msgstr ""
+
+#: offshorethemes/functions.php:535 offshorethemes/widgets/whychoose.php:205
+#: offshorethemes/widgets/whychoose.php:247
+#: offshorethemes/widgets/mainservices.php:231
+#: offshorethemes/widgets/mainservices.php:273
+#: offshorethemes/widgets/academics.php:230
+#: offshorethemes/widgets/academics.php:272
+#: offshorethemes/widgets/featureservice.php:216
+#: offshorethemes/widgets/featureservice.php:258
+#: offshorethemes/widgets/faq.php:206 offshorethemes/widgets/faq.php:248
+msgid "Close"
+msgstr ""
+
+#: offshorethemes/functions.php:639
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: offshorethemes/functions.php:640
+msgid "Clear"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-single.php:51 template-parts/content-page.php:19
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:32 offshorethemes/core/template-tags.php:110
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content.php:34 template-parts/content-search.php:37
+msgid "Continue Reading"
+msgstr ""
+
+#. %s: post date.
+#: offshorethemes/core/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted On : %s"
+msgstr ""
+
+#. %s: post author.
+#: offshorethemes/core/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "By : %s"
+msgstr ""
+
+#: offshorethemes/core/template-tags.php:42
+msgid "No Comment"
+msgstr ""
+
+#. %d: number of comments
+#: offshorethemes/core/template-tags.php:45
+#, php-format
+msgid "%d Comments."
+msgstr ""
+
+#: offshorethemes/core/template-tags.php:47
+msgid "1 Comment"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: offshorethemes/core/template-tags.php:73
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: offshorethemes/core/template-tags.php:76
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: offshorethemes/core/template-tags.php:80
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: offshorethemes/core/template-tags.php:83
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: offshorethemes/core/template-tags.php:93
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:24
+#: offshorethemes/widgets/aboutus.php:80
+msgid "Select Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:50
+msgid "Use Education Web Style frontpage?"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:58
+msgid "Important Links"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:69
+msgid "Documentation"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:69
+msgid "Live Demo"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:69
+msgid "Support Forum"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:69
+msgid "Like Us in Facebook"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:78
+msgid "General Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:85
+msgid "Site Logo/Title/Tagline"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:93
+msgid "Background Image"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:101
+msgid "Colors Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:111
+msgid "Top Header Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:119
+msgid "Quick Contact Information"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:130
+msgid "Email Address"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:142
+msgid "Phone Number"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:154
+msgid "Address"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:166
+msgid "Opeening Time"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:176
+msgid "Social Media Link Options"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:183
+msgid "Facebook"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:188
+msgid "Twitter"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:193
+msgid "Google-Plus"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:198
+msgid "Instagram"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:203
+msgid "Pinterest"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:208
+msgid "Linkedin"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:213
+msgid "YouTube"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:240
+msgid "Main Header Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:252
+msgid "Disable Top Header?"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:254
+msgid "Choose Options to Disable Top Header"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:264
+msgid "Main Banner Slider Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:276
+msgid "Choose Enable/Disable Slider"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:278
+msgid "Choose Options to Disable Sticky Menu"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:298
+msgid "Slider Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:301
+msgid "Slider Settings Options"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:302
+msgid "Add New Slider"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:307
+msgid "Select Slider Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:312
+#: offshorethemes/customizer/customizer.php:1463
+msgid "Enter Button Text"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:317
+msgid "Enter Button Url"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:326
+msgid "Inner Page Background Images"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:335
+msgid "HomePage Section Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:342
+#: offshorethemes/customizer/customizer.php:355
+msgid "Section Re Order"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:358
+#: offshorethemes/customizer/customizer.php:427
+msgid "Features Services"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:359
+msgid "Skill Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:360
+msgid "Academics Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:361
+msgid "Courses Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:362
+msgid "Extra Services Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:363
+msgid "Why Choose Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:364
+msgid "Gallery Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:365
+msgid "Counter Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:366
+msgid "Our Team Member"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:367
+msgid "Testimonial Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:368
+msgid "FAQ Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:369
+msgid "Our Blogs"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:370
+msgid "Our Client/Brand"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:379
+msgid "Features Services Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:392
+#: offshorethemes/customizer/customizer.php:462
+#: offshorethemes/customizer/customizer.php:533
+#: offshorethemes/customizer/customizer.php:615
+#: offshorethemes/customizer/customizer.php:709
+#: offshorethemes/customizer/customizer.php:791
+#: offshorethemes/customizer/customizer.php:886
+#: offshorethemes/customizer/customizer.php:945
+#: offshorethemes/customizer/customizer.php:1022
+#: offshorethemes/customizer/customizer.php:1132
+#: offshorethemes/customizer/customizer.php:1202
+#: offshorethemes/customizer/customizer.php:1291
+#: offshorethemes/customizer/customizer.php:1354
+#: offshorethemes/customizer/customizer.php:1437
+msgid "Choose Enable/Disable Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:394
+msgid "Choose Options to Disable Featues Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:406
+msgid "Enter Services Descriptions Limit"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:424
+msgid "Features Services Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:428
+#: offshorethemes/customizer/customizer.php:758
+msgid "Add New Services"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:433
+#: offshorethemes/customizer/customizer.php:763
+msgid "Select Services Icon"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:438
+#: offshorethemes/customizer/customizer.php:768
+msgid "Select Services Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:449
+msgid "Skill Section Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:464
+msgid "Choose Options to Disable Skill Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:477
+msgid "Select Skill Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:495
+#: offshorethemes/customizer/customizer.php:498
+msgid "Skill Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:499
+msgid "Add New Skill"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:504
+#: offshorethemes/customizer/customizer.php:993
+msgid "Enter Counter Number"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:509
+msgid "Enter Skill Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:520
+msgid "Academics Section Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:535
+msgid "Choose Options to Disable Academics Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:548
+msgid "Enter Academics Main Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:559
+msgid "Enter Academics Main Sub Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:578
+msgid "Academics Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:581
+msgid "Academics Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:582
+msgid "Add New Academics"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:587
+msgid "Select Academics Icon"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:592
+#: offshorethemes/customizer/customizer.php:681
+msgid "Select Academics Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:602
+msgid "Courses Section Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:617
+msgid "Choose Options to Disable Courses Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:630
+msgid "Enter Courses Main Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:641
+msgid "Enter Courses Main Sub Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:653
+msgid "Enter Course Descriptions Limit"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:672
+msgid "Course Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:675
+msgid "Course settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:676
+msgid "Add New Course"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:686
+msgid "Enter Course Price"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:696
+msgid "Extra Services Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:711
+msgid "Choose Options to Disable Extra Services"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:724
+msgid "Enter Services Main Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:735
+msgid "Enter Services Sub Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:754
+msgid "Extra Services Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:757
+msgid "Extra Services"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:778
+msgid "Why Choose Section Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:793
+msgid "Choose Options to Disable Why Choose Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:806
+msgid "Enter Why Choose Main Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:817
+msgid "Enter Why Choose Sub Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:830
+msgid "Why Choose Section Features Image"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:848
+msgid "Why Choose Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:851
+msgid "Why Choose Plan Pages"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:852
+msgid "Add New Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:857
+msgid "Select Why Choose Icon"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:862
+msgid "Select Why Choose Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:873
+msgid "Gallery Section Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:888
+msgid "Choose Options to Disable Gallery Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:901
+msgid "Enter Gallery Main Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:912
+msgid "Enter Gallery Main SubTitle"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:924
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:932
+msgid "Counter Section Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:947
+msgid "Choose Options to Disable Counter Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:960
+msgid "Upload Counter BG Image"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:979
+#: offshorethemes/customizer/customizer.php:982
+msgid "Counter Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:983
+msgid "Add New Counter"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:988
+msgid "Select Counter Icon"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:998
+msgid "Enter Counter Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1008
+#: offshorethemes/customizer/customizer.php:1073
+msgid "Our Team Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1024
+msgid "Choose Options to Disable Team Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1036
+msgid "Enter Team Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1047
+msgid "Enter Team Sub Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1070
+msgid "Team Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1074
+msgid "Add New Team"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1079
+msgid "Select Team Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1084
+msgid "Enter Member Position"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1089
+msgid "Enter Member Facebook Link"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1094
+msgid "Enter Member Twitter Link"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1099
+msgid "Enter Member Googel Plus"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1104
+msgid "Enter Member Instagram"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1109
+msgid "Enter Member Linkedin"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1119
+#: offshorethemes/widgets/testimonial.php:106
+msgid "Our Testimonial Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1134
+msgid "Choose Options to Disable Testimonial Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1146
+msgid "Enter Testimonial Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1165
+msgid "Testimonial Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1168
+msgid "Testimonial Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1169
+msgid "Add New Testimonial"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1174
+msgid "Select Testimonial Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1179
+msgid "Enter Compnay Name"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1189
+msgid "FAQ Section Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1204
+msgid "Choose Options to Disable FAQ Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1217
+msgid "Enter FAQ Main Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1228
+msgid "Enter FAQ Main SubTitle"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1245
+msgid "FAQ Services Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1248
+msgid "FAQ Services Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1249
+msgid "Add New FAQ"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1254
+msgid "Select FAQ Page"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1267
+msgid "Upload FAQ BG Image"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1277
+msgid "Our Blogs Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1293
+msgid "Choose Options to Disable Blog Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1305
+msgid "Enter Blog Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1317
+msgid "Enter Blog Sub Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1328
+msgid "Select Blog Cateogry"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1340
+msgid "Our Client/Brand Logo Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1356
+msgid "Choose Options to Disable Client Logo Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1369
+msgid "Enter Client/Brand Logo Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1380
+msgid "Enter Client/Brand Logo Sub Title"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1399
+msgid "Client/Brand Logo Settings Area"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1402
+msgid "Client/Brand Logo Settings"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1403
+msgid "Add New Logo"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1408
+msgid "Update Client/Brand Logo"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1413
+msgid "Enter Client Logo Link"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1423
+msgid "Footer Call To Action"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1439
+msgid "Choose Options to Disable Call To Action Section"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1452
+msgid "Enter Call To Action Text"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1474
+msgid "Enter Button URL"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1485
+msgid "Boxed Layout"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1486
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1501
+msgid "Layout One"
+msgstr ""
+
+#: offshorethemes/customizer/customizer.php:1502
+msgid "Layout Two"
+msgstr ""
+
+#: offshorethemes/hooks/siteorigin-panels.php:46
+msgid "OT Education Web Widgets"
+msgstr ""
+
+#: offshorethemes/hooks/header.php:12
+msgid "Skip to content"
+msgstr ""
+
+#: offshorethemes/hooks/footer.php:20
+msgid "Top"
+msgstr ""
+
+#: offshorethemes/metabox/meta-icons.php:16
+msgid "Featured Icon"
+msgstr ""
+
+#: offshorethemes/metabox/meta-icons.php:66
+msgid "Add Page Icon"
+msgstr ""
+
+#: offshorethemes/metabox/meta-icons.php:66
+msgid "Edit Icon"
+msgstr ""
+
+#: offshorethemes/metabox/meta-icons.php:70
+msgid "Search Icon"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: offshorethemes/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s is the page number.
+#: offshorethemes/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: offshorethemes/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: offshorethemes/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:758
+#: offshorethemes/breadcrumbs/breadcrumbs.php:787
+#: offshorethemes/breadcrumbs/breadcrumbs.php:814
+#: offshorethemes/breadcrumbs/breadcrumbs.php:841
+#: offshorethemes/breadcrumbs/breadcrumbs.php:1182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:759
+#: offshorethemes/breadcrumbs/breadcrumbs.php:815
+#: offshorethemes/breadcrumbs/breadcrumbs.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:760
+#: offshorethemes/breadcrumbs/breadcrumbs.php:1190
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: offshorethemes/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: offshorethemes/ocdi/ocdi.php:22
+msgid "Theme Demo Content"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:19
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:24
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:29
+msgid "Contact Form 7"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:34
+msgid "WooCommerce"
+msgstr ""
+
+#: offshorethemes/tgm/tgm.php:39 offshorethemes/admin/about-theme/info.php:96
+#: offshorethemes/admin/about-theme/info.php:150
+msgid "One Click Demo Import"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/team.php:32
+msgid "OT : Our Team Member"
+msgstr ""
+
+#: offshorethemes/widgets/team.php:37
+msgid "A Widget Display Company Team Member"
+msgstr ""
+
+#: offshorethemes/widgets/team.php:56 offshorethemes/widgets/clientslogo.php:57
+#: offshorethemes/widgets/courses.php:80
+#: offshorethemes/widgets/whychoose.php:134
+#: offshorethemes/widgets/testimonial.php:81
+#: offshorethemes/widgets/mainservices.php:160
+#: offshorethemes/widgets/academics.php:159 offshorethemes/widgets/faq.php:135
+#: offshorethemes/widgets/blogs.php:87
+msgid "Enter Section Title"
+msgstr ""
+
+#: offshorethemes/widgets/team.php:61 offshorethemes/widgets/clientslogo.php:62
+#: offshorethemes/widgets/courses.php:85
+#: offshorethemes/widgets/whychoose.php:139
+#: offshorethemes/widgets/testimonial.php:86
+#: offshorethemes/widgets/mainservices.php:165
+#: offshorethemes/widgets/academics.php:164 offshorethemes/widgets/faq.php:140
+#: offshorethemes/widgets/blogs.php:92
+msgid "Enter Section Sub Title"
+msgstr ""
+
+#: offshorethemes/widgets/team.php:68
+msgid "Our Team Member Settings"
+msgstr ""
+
+#: offshorethemes/widgets/team.php:71
+msgid ""
+"Click on button and manage team member section settings Area in customizer"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/clientslogo.php:32
+msgid "OT : Clients/Brand Logo Area"
+msgstr ""
+
+#: offshorethemes/widgets/clientslogo.php:37
+msgid "A Widget Display Company Clients/Brand Logo"
+msgstr ""
+
+#: offshorethemes/widgets/clientslogo.php:69
+msgid "Our Clients/Brand Logo"
+msgstr ""
+
+#: offshorethemes/widgets/clientslogo.php:72
+msgid ""
+"Click on button and manage clients/brand logo section settings Area in "
+"customizer"
+msgstr ""
+
+#: offshorethemes/widgets/clientslogo.php:146
+msgid "Brnd Logo Image"
+msgstr ""
+
+#: offshorethemes/widgets/aboutus.php:15
+msgid "Left"
+msgstr ""
+
+#: offshorethemes/widgets/aboutus.php:16
+msgid "Right"
+msgstr ""
+
+#: offshorethemes/widgets/aboutus.php:50
+msgid "OT : AboutUs Widget"
+msgstr ""
+
+#: offshorethemes/widgets/aboutus.php:52
+msgid "A widget display about us description with features image"
+msgstr ""
+
+#: offshorethemes/widgets/aboutus.php:71
+msgid "Select AboutUs Page"
+msgstr ""
+
+#: offshorethemes/widgets/aboutus.php:88
+msgid "Image Align"
+msgstr ""
+
+#: offshorethemes/widgets/courses.php:15
+#: offshorethemes/widgets/testimonial.php:16
+#: offshorethemes/widgets/mainservices.php:16
+#: offshorethemes/widgets/academics.php:16
+#: offshorethemes/widgets/featureservice.php:15
+#: offshorethemes/widgets/blogs.php:16
+msgid "2"
+msgstr ""
+
+#: offshorethemes/widgets/courses.php:16
+#: offshorethemes/widgets/testimonial.php:17
+#: offshorethemes/widgets/mainservices.php:17
+#: offshorethemes/widgets/academics.php:17
+#: offshorethemes/widgets/featureservice.php:16
+#: offshorethemes/widgets/blogs.php:17
+msgid "3"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/courses.php:54
+msgid "OT : Our Courses"
+msgstr ""
+
+#: offshorethemes/widgets/courses.php:59
+msgid "A Widget Display Our Popular Courses"
+msgstr ""
+
+#: offshorethemes/widgets/courses.php:90
+msgid "Select Display Number Column"
+msgstr ""
+
+#: offshorethemes/widgets/courses.php:105
+msgid "Our Courses Settings"
+msgstr ""
+
+#: offshorethemes/widgets/courses.php:108
+msgid "Click on button and manage courses section settings Area in customizer"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/whychoose.php:33
+msgid "OT : Why Choose Services"
+msgstr ""
+
+#: offshorethemes/widgets/whychoose.php:38
+msgid "A Widget Display Company Why Choose Services"
+msgstr ""
+
+#: offshorethemes/widgets/whychoose.php:145
+#: offshorethemes/widgets/whychoose.php:147
+#: offshorethemes/widgets/whychoose.php:155
+#: offshorethemes/widgets/whychoose.php:164
+#: offshorethemes/widgets/whychoose.php:198
+#: offshorethemes/widgets/whychoose.php:240
+msgid "Select Why Choose Pages"
+msgstr ""
+
+#: offshorethemes/widgets/whychoose.php:186
+msgid "Select Why Choose Page Item"
+msgstr ""
+
+#: offshorethemes/widgets/whychoose.php:206
+#: offshorethemes/widgets/whychoose.php:248
+#: offshorethemes/widgets/mainservices.php:232
+#: offshorethemes/widgets/mainservices.php:274
+#: offshorethemes/widgets/academics.php:231
+#: offshorethemes/widgets/academics.php:273
+#: offshorethemes/widgets/featureservice.php:259
+#: offshorethemes/widgets/faq.php:207 offshorethemes/widgets/faq.php:249
+msgid "Edit / Add Icon"
+msgstr ""
+
+#: offshorethemes/widgets/whychoose.php:229
+#: offshorethemes/widgets/whychoose.php:256
+msgid "Why Choose Page Item"
+msgstr ""
+
+#: offshorethemes/widgets/whychoose.php:265
+#: offshorethemes/widgets/whychoose.php:278
+#: offshorethemes/widgets/whychoose.php:278 offshorethemes/widgets/faq.php:266
+#: offshorethemes/widgets/faq.php:279 offshorethemes/widgets/faq.php:279
+msgid "Select Background Image"
+msgstr ""
+
+#: offshorethemes/widgets/whychoose.php:278 offshorethemes/widgets/faq.php:279
+msgid "Upload Image"
+msgstr ""
+
+#: offshorethemes/widgets/whychoose.php:279 offshorethemes/widgets/faq.php:280
+msgid "Remove Image"
+msgstr ""
+
+#: offshorethemes/widgets/testimonial.php:15
+#: offshorethemes/widgets/mainservices.php:15
+#: offshorethemes/widgets/academics.php:15 offshorethemes/widgets/blogs.php:15
+msgid "1"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/testimonial.php:55
+msgid "OT : Testimonial Area"
+msgstr ""
+
+#: offshorethemes/widgets/testimonial.php:60
+msgid "A Widget Display Company Testimonial"
+msgstr ""
+
+#: offshorethemes/widgets/testimonial.php:91
+msgid "Select Display Number Items"
+msgstr ""
+
+#: offshorethemes/widgets/testimonial.php:109
+msgid ""
+"Click on button and manage testimonial section settings Area in customizer"
+msgstr ""
+
+#: offshorethemes/widgets/mainservices.php:18
+#: offshorethemes/widgets/featureservice.php:17
+#: offshorethemes/widgets/blogs.php:18
+msgid "4"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/mainservices.php:58
+msgid "OT : Main Services List"
+msgstr ""
+
+#: offshorethemes/widgets/mainservices.php:63
+msgid "A Widget Display Company Main Services Area"
+msgstr ""
+
+#: offshorethemes/widgets/mainservices.php:171
+#: offshorethemes/widgets/mainservices.php:173
+#: offshorethemes/widgets/mainservices.php:181
+#: offshorethemes/widgets/mainservices.php:190
+#: offshorethemes/widgets/mainservices.php:224
+#: offshorethemes/widgets/mainservices.php:266
+#: offshorethemes/widgets/featureservice.php:156
+#: offshorethemes/widgets/featureservice.php:166
+#: offshorethemes/widgets/featureservice.php:209
+#: offshorethemes/widgets/featureservice.php:251
+msgid "Select Services Pages"
+msgstr ""
+
+#: offshorethemes/widgets/mainservices.php:212
+#: offshorethemes/widgets/featureservice.php:197
+msgid "Select Services Page Item"
+msgstr ""
+
+#: offshorethemes/widgets/mainservices.php:255
+#: offshorethemes/widgets/mainservices.php:282
+#: offshorethemes/widgets/featureservice.php:240
+#: offshorethemes/widgets/featureservice.php:267
+msgid "Services Page Item"
+msgstr ""
+
+#: offshorethemes/widgets/mainservices.php:290
+#: offshorethemes/widgets/academics.php:289
+#: offshorethemes/widgets/featureservice.php:275
+msgid "Column Number"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/academics.php:57
+msgid "OT : Academics"
+msgstr ""
+
+#: offshorethemes/widgets/academics.php:62
+msgid "A Widget Display Academics Courses Area"
+msgstr ""
+
+#: offshorethemes/widgets/academics.php:170
+#: offshorethemes/widgets/academics.php:172
+#: offshorethemes/widgets/academics.php:180
+#: offshorethemes/widgets/academics.php:189
+#: offshorethemes/widgets/academics.php:223
+#: offshorethemes/widgets/academics.php:265
+msgid "Select Academics Pages"
+msgstr ""
+
+#: offshorethemes/widgets/academics.php:211
+msgid "Select Academics Page Item"
+msgstr ""
+
+#: offshorethemes/widgets/academics.php:254
+#: offshorethemes/widgets/academics.php:281
+msgid "Academics Page Item"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/featureservice.php:55
+msgid "OT : Features Services"
+msgstr ""
+
+#: offshorethemes/widgets/featureservice.php:60
+msgid "A Widget Display Main Features Services Area"
+msgstr ""
+
+#: offshorethemes/widgets/featureservice.php:158
+#: offshorethemes/widgets/featureservice.php:175
+msgid "Select Features Services Pages"
+msgstr ""
+
+#: offshorethemes/widgets/featureservice.php:217
+msgid "Full Edit"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/faq.php:34
+msgid "OT : FAQ Section"
+msgstr ""
+
+#: offshorethemes/widgets/faq.php:39
+msgid "A Widget Display Company FAQ Services Section"
+msgstr ""
+
+#: offshorethemes/widgets/faq.php:146 offshorethemes/widgets/faq.php:148
+#: offshorethemes/widgets/faq.php:156 offshorethemes/widgets/faq.php:165
+#: offshorethemes/widgets/faq.php:199 offshorethemes/widgets/faq.php:241
+msgid "Select FAQ Pages"
+msgstr ""
+
+#: offshorethemes/widgets/faq.php:187
+msgid "Select FAQ Page Item"
+msgstr ""
+
+#: offshorethemes/widgets/faq.php:230 offshorethemes/widgets/faq.php:257
+msgid "FAQ Page Item"
+msgstr ""
+
+#: offshorethemes/widgets/faq.php:423
+msgid "Faq Image preview"
+msgstr ""
+
+#: offshorethemes/widgets/blogs.php:19
+msgid "5"
+msgstr ""
+
+#: offshorethemes/widgets/blogs.php:20
+msgid "6"
+msgstr ""
+
+#: offshorethemes/widgets/blogs.php:21
+msgid "7"
+msgstr ""
+
+#: offshorethemes/widgets/blogs.php:22
+msgid "8"
+msgstr ""
+
+#. Widget name will appear in UI
+#: offshorethemes/widgets/blogs.php:60
+msgid "OT : Our Blogs"
+msgstr ""
+
+#: offshorethemes/widgets/blogs.php:65
+msgid "A Widget Display Company Blogs Posts"
+msgstr ""
+
+#: offshorethemes/widgets/blogs.php:97
+msgid "Select Multiple Blogs Category"
+msgstr ""
+
+#: offshorethemes/widgets/blogs.php:137
+msgid "Select Display Number Posts"
+msgstr ""
+
+#: offshorethemes/customizer/customizer-pro/class-customize.php:77
+msgid "Upgrade To Education Web Pro"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:20
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. We want to make sure you have the "
+"best experience using the theme and that is why we gathered here all the "
+"necessary information for you. Thanks for using our theme!"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:25
+msgid "Support"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:27
+#: offshorethemes/admin/about-theme/info.php:94
+#: offshorethemes/admin/about-theme/info.php:97
+msgid "Demo Content"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:28
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:35
+msgid "Theme Details"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:40
+#: offshorethemes/admin/about-theme/info.php:105
+msgid "View Demo"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:45
+#: offshorethemes/admin/about-theme/info.php:67
+#: offshorethemes/admin/about-theme/info.php:127
+msgid "View Documentation"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:50
+msgid "Rate This Theme"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:55
+#: offshorethemes/admin/about-theme/info.php:156
+msgid "Buy Pro Themes"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:64
+#: offshorethemes/admin/about-theme/info.php:124
+msgid "Theme Documentation"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:66
+#: offshorethemes/admin/about-theme/info.php:126
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:73
+#: offshorethemes/admin/about-theme/info.php:76
+msgid "Static Front Page"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:75
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:81
+msgid "Theme Options"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:83
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:84
+msgid "Customize"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:89
+msgid "Page Builder"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:91
+msgid ""
+"Page Builder by SiteOrigin is integrated in the theme to achieve different "
+"layouts. Please make sure both Page Builder by SiteOrigin and SiteOrigin "
+"Widgets Bundle plugins are installed and activated."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:96
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and activated."
+" After plugin is activated, visit Import Demo Data menu under Appearance."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:102
+msgid "Theme Preview"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:104
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:115
+#: offshorethemes/admin/about-theme/info.php:118
+msgid "Contact Support"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:117
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:133
+msgid "Child Theme"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:135
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:136
+msgid "Learn More"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:145
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:150
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see Import Demo Data menu under Appearance."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/info.php:155
+msgid ""
+"If you want more advanced features then you can upgrade to the premium "
+"version of the theme."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:121
+#: offshorethemes/admin/about-theme/class.info.php:122
+#, php-format
+msgid "%s Info"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme info page."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:126
+msgid "Dismiss this notice"
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:231
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: offshorethemes/admin/about-theme/class.info.php:340
+#: offshorethemes/admin/about-theme/class.info.php:381
+msgid "Manage Plugins"
+msgstr ""
+
+#. Name of the theme
+msgid "Education Web"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Education web is an attractive, modern, easy to use and responsive WordPress "
+"education theme with colorful design and stunning flexibility . This theme "
+"is capable of tackling the overall needs of all educational institute "
+"websites including universities, colleges, schools and others. This theme "
+"will help you to create very high quality educational website easily with no "
+"time at all."
+msgstr ""
+
+#. URI of the theme
+msgid "https://offshorethemes.com/wordpress-themes/education-web/"
+msgstr ""
+
+#. Author of the theme
+msgid "offshorethemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://offshorethemes.com"
+msgstr ""
